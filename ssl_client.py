@@ -7,7 +7,7 @@ import ssl
 from PIL import Image, ImageTk
 import math
 
-HOST = "10.30.204.222"   #replace with your server's IP address
+HOST = "<your-server-ip-here>"   #replace with your server's IP address
 PORT = 5555
 BUFFER_SIZE = 1024
 CERTIFICATE_PATH = "certificate.pem"    #set as per the path of the certificate you have generated
